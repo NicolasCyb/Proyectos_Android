@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMCapp_11_11_24</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="_120cm">120cm</string>
+    <string name="altura">Altura</string>
+    <string name="_120_cm">120 cm</string>
+    <string name="_77">77</string>
+    <string name="peso">Peso</string>
+    <string name="_46">46</string>
+    <string name="btn_Imc">Calcular IMC</string>
+    <string name="tu_imc">TU IMC</string>
+    <string name="recalcular_imc">RECALCULAR IMC</string>
+    <string name="error">ERROR</string>
+</resources>
